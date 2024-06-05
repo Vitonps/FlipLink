@@ -14,7 +14,7 @@ const characters = [
   'Lua',
   'Dinossauro',
   'Maca',
-  'vaca',
+  'Vaca',
   
 ];
 
